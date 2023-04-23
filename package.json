@@ -1,0 +1,21 @@
+{
+  "name": "introduccion-node-ts-uns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc --w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlisesSchreiner/introduccion-node-ts-uns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UlisesSchreiner/introduccion-node-ts-uns/issues"
+  },
+  "homepage": "https://github.com/UlisesSchreiner/introduccion-node-ts-uns#readme"
+}
